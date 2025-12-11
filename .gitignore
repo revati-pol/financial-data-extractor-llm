@@ -1,0 +1,21 @@
+# Ignore virtual environment
+genv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Windows junk
+.DS_Store
+Thumbs.db
