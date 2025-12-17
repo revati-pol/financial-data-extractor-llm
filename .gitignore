@@ -1,0 +1,60 @@
+############################################
+<<<<<<< HEAD
+# GLOBAL (applies to all projects)
+############################################
+
+# Virtual environments
+genv/
+venv/
+env/
+
+=======
+# FINANCIAL DATA EXTRACTOR APP
+############################################
+
+>>>>>>> 0c2ec3d7ae93711ea59936c52d04e41e8bb56058
+# Environment variables
+.env
+
+# Python cache
+<<<<<<< HEAD
+**/__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+=======
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+>>>>>>> 0c2ec3d7ae93711ea59936c52d04e41e8bb56058
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+
+<<<<<<< HEAD
+# OS junk
+.DS_Store
+Thumbs.db
+
+# ================================
+# Global vector / embedding stores
+# ================================
+chroma_store/
+**/chroma_store/
+**/vector_store/
+**/*.sqlite3
+=======
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+>>>>>>> 0c2ec3d7ae93711ea59936c52d04e41e8bb56058

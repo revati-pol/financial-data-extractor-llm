@@ -1,0 +1,27 @@
+############################################
+# FINANCIAL DATA EXTRACTOR APP
+############################################
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
